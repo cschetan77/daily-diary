@@ -1,0 +1,11 @@
+{
+  "name": "daily-diary",
+  "version": "1.0.0",
+  "description": "Daily diary writing to record task completed and progress made on the daily basis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Chetan Sharma",
+  "license": "ISC"
+}
