@@ -46,3 +46,21 @@
 
 4. Extra Activities
     - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+***
+
+## 2022-07-25
+
+1. Learning task completed
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+2. Office Work and learning
+    - TDD PR got merged for for both mpage-core an mpage-viewpoint
+    - Raised Code PR
+    - Looked into the spike for investigation by Nicholas - Update use of uniqueID in Ckeditor
+
+3. Problems Solved
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+4. Extra Activities
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
