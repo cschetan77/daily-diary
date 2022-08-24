@@ -64,3 +64,21 @@
 
 4. Extra Activities
     - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+***
+
+## 2022-08-23
+
+1. Learning task completed
+    - Important Array methods in javascript - <https://blog.oliverjumpertz.dev/10-important-array-methods-in-javascript-explained>
+
+2. Office Work and learning
+    - Exploring packagng of ie-edge-linter
+        - Learned about `pkg`, `gulp` and other bundlers
+
+3. Problems Solved
+    - Subset Sum Equals to Target
+        - DP on subsequences
+
+4. Extra Activities
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
