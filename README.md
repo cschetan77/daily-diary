@@ -82,3 +82,19 @@
 
 4. Extra Activities
     - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+## 2023-06-20
+
+1. Completed following learning tasks
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+2. Office Work
+    - Completed accessibility testing for BannerItem fusion control.
+    - Reviewed and MPages-8-3 SP PRs.
+    - Tested code changes in BannerItem fusion control related to removing of classnames.
+
+3. Problems Solved
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+4. Extra Activities
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
