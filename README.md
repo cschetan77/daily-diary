@@ -98,3 +98,21 @@
 
 4. Extra Activities
     - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+## 2023-06-23
+
+1. Completed following learning tasks
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+2. Office Work
+    - Worked on BannerItem fusion control, implemented code chnages for More Details toggle button to make it keyboard and VoiceOver accessible.
+    - Raised a PR for the same.
+
+3. Problems Solved
+    - [Valid Paranthesis](https://leetcode.com/problems/valid-parentheses/?envType=study-plan-v2&envId=top-interview-150)
+    - [Simplify Path](https://leetcode.com/problems/simplify-path/?envType=study-plan-v2&envId=top-interview-150)
+    - [Min Stack](https://leetcode.com/problems/min-stack/?envType=study-plan-v2&envId=top-interview-150)
+    - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/?envType=study-plan-v2&envId=top-interview-150)
+
+4. Extra Activities
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
