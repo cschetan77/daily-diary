@@ -116,3 +116,21 @@
 
 4. Extra Activities
     - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+## 2023-06-24
+
+1. Completed following learning tasks
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+2. Office Work
+    - Worked on BannerItem fusion control TDD.
+    - Helped Pavan figuring out the Demographics Banner css issue.
+
+3. Problems Solved
+    - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?envType=study-plan-v2&envId=top-interview-150)
+    - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/?envType=study-plan-v2&envId=top-interview-150)
+    - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/?envType=study-plan-v2&envId=top-interview-150)
+    - [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/?envType=study-plan-v2&envId=top-interview-150)
+
+4. Extra Activities
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
