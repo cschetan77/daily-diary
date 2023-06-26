@@ -134,3 +134,17 @@
 
 4. Extra Activities
     - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+## 2023-06-25
+
+1. Completed following learning tasks
+    - Started watching [Turing React Interview](https://www.youtube.com/watch?v=6qERg1Yt1QQ) 6:48
+
+2. Office Work
+    - Sunday
+
+3. Problems Solved
+    - [Remove Nth Node From the End of the List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/?envType=study-plan-v2&envId=top-interview-150)
+
+4. Extra Activities
+    - Played Assassin's creed Odyssey a lot.
