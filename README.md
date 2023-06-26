@@ -148,3 +148,21 @@
 
 4. Extra Activities
     - Played Assassin's creed Odyssey a lot.
+
+## 2023-06-26
+
+1. Completed following learning tasks
+    - [React Virtual DOM](https://blog.logrocket.com/virtual-dom-react/#)
+
+2. Office Work
+    - Raised PR for both TDD and code BannerItem More Details toggle button accessibiltiy.
+    - Reviewed gaia-plugin-unit-testing PR created by Shubham V for jest issue.
+
+3. Problems Solved
+    - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/?envType=study-plan-v2&envId=top-interview-150)
+    - [Rotate List](https://leetcode.com/problems/rotate-list/?envType=study-plan-v2&envId=top-interview-150)
+    - [Partition List](https://leetcode.com/problems/partition-list/?envType=study-plan-v2&envId=top-interview-150)
+    - [LRU Cache](https://leetcode.com/problems/lru-cache/?envType=study-plan-v2&envId=top-interview-150)
+
+4. Extra Activities
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
