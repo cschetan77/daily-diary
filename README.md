@@ -166,3 +166,23 @@
 
 4. Extra Activities
     - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+## 2023-06-27
+
+1. Completed following learning tasks
+    - Found [DraftJs](https://draftjs.org) library to implement rich text editor in react.
+
+2. Office Work
+    - Addressed comments for BannerItem PR and got a approval.
+    - Unscripted testing completed for BannerItem More Details toggle accessibility.
+
+3. Problems Solved
+    - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=study-plan-v2&envId=top-interview-150)
+    - [Same Tree](https://leetcode.com/problems/same-tree/?envType=study-plan-v2&envId=top-interview-150)
+    - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/?envType=study-plan-v2&envId=top-interview-150)
+    - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/?envType=study-plan-v2&envId=top-interview-150)
+    - [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/?envType=study-plan-v2&envId=top-interview-150)
+    - [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/?envType=study-plan-v2&envId=top-interview-150)
+
+4. Extra Activities
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
