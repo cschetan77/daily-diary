@@ -186,3 +186,112 @@
 
 4. Extra Activities
     - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+## 2023-06-29
+
+1. Completed following learning tasks
+    - [React state batch update](https://medium.com/swlh/react-state-batch-update-b1b61bd28cd2)
+    - [Automatic state batchung React v18](https://blog.bitsrc.io/automatic-batching-in-react-18-what-you-should-know-d50141dc096e)
+
+2. Office Work
+    - Holiday.
+
+3. Problems Solved
+    - 
+
+4. Extra Activities
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+## 2023-07-01
+
+1. Completed following learning tasks
+    - [Morris Binary Tree Traversal](https://youtu.be/80Zug6D1_r4)
+
+2. Office Work
+    - Holiday.
+
+3. Problems Solved
+    - [Path Sum](https://leetcode.com/problems/path-sum/?envType=study-plan-v2&envId=top-interview-150)
+    - [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/?envType=study-plan-v2&envId=top-interview-150)
+    - [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/?envType=study-plan-v2&envId=top-interview-150)
+    - [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/?envType=study-plan-v2&envId=top-interview-150)
+
+4. Extra Activities
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+## 2023-07-03
+
+1. Completed following learning tasks
+    - [Senior Software Engineer Mock Technical Interview](https://www.youtube.com/watch?v=yju4zwKSriI) 14:13
+
+2. Office Work
+    - Testing the BannerItem Accessibility changes. Had a discussion with UX team.
+
+3. Problems Solved
+    - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/?envType=study-plan-v2&envId=top-interview-150)
+    - [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150)
+    -[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=study-plan-v2&envId=top-interview-150)
+
+4. Extra Activities
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+## 2023-07-04
+
+1. Completed following learning tasks
+    - [Backtracking N Queens Puzzle](https://youtu.be/i05Ju7AftcM?list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9)
+
+2. Office Work
+    - Started gap analysis for ComponentHeader.
+    - Involved in technical discussion around terra-passthrough with Romanian team (KT session).
+
+3. Problems Solved
+    - [N Queens II](https://leetcode.com/problems/n-queens-ii/description/)
+
+4. Extra Activities
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+## 2023-07-09
+
+1. Completed following learning tasks
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+2. Office Work
+    - Sunday
+
+3. Problems Solved
+    - [Combinations](https://leetcode.com/problems/combinations/?envType=study-plan-v2&envId=top-interview-150)
+    - [Permutations](https://leetcode.com/problems/permutations/?envType=study-plan-v2&envId=top-interview-150)
+
+4. Extra Activities
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+## 2023-07-10
+
+1. Completed following learning tasks
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+2. Office Work
+    - Done gap analysis for ComponentHeader-Terra ClinicalHeader
+
+3. Problems Solved
+    - [CombinationSum](https://leetcode.com/problems/combination-sum/description/?envType=study-plan-v2&envId=top-interview-150)
+    - [A general approach to backtracking questions](https://leetcode.com/problems/combination-sum/solutions/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)/)
+
+4. Extra Activities
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+## 2023-07-11
+
+1. Completed following learning tasks
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
+
+2. Office Work
+    - Completed Gap analysis for ComponentHeader.
+    - Discussion with Kushal for the testing of BannerItem and BannerManager.
+
+3. Problems Solved
+    - [Generate Paranthesis](https://leetcode.com/problems/generate-parentheses/?envType=study-plan-v2&envId=top-interview-150)
+    - [Word Search](https://leetcode.com/problems/word-search/?envType=study-plan-v2&envId=top-interview-150)
+
+4. Extra Activities
+    - Nothing :crying_cat_face: :stuck_out_tongue_closed_eyes:
